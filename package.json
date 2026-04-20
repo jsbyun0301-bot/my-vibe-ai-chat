@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/google": "^3.0.63",
+    "@ai-sdk/react": "^3.0.163",
+    "@openrouter/ai-sdk-provider": "^2.8.0",
+    "ai": "^6.0.161",
     "next": "16.2.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"
